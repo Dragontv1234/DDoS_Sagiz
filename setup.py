@@ -1,0 +1,10 @@
+pip install requests
+pip install cpu-count
+pip install cycle
+pip install multiprocessing
+pip install itertools
+pip install socket 
+pip install time
+pip install random 
+pip install threading 
+pip install cloudscraper
